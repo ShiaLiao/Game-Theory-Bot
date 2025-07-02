@@ -138,9 +138,9 @@ IMPORTANT: 在将此内容复制到你的 README.md 文件之前，
 5.  打开一个 Pull Request。
 
 ## 作者
-*   [Xiyan Liao](https://github.com/ShiaLiao) - game_trust_evolution 游戏代码；主程序main和ui管理代码，软件层级设计
-*   [Weiran Cui](https://github.com/cwr111) - game_points_showdown游戏代码；摇杆控制输入代码；总代码测试与bug修复
-*   [Xiangyi Wei] - game_auction游戏代码，st7789的驱动，绘制电路原理图
+*   [廖希言](https://github.com/ShiaLiao) - game_trust_evolution 游戏代码；主程序main和ui管理代码，软件层级设计
+*   [崔巍然](https://github.com/cwr111) - game_points_showdown游戏代码；摇杆控制输入代码；总代码测试与bug修复
+*   魏向亿 - game_auction游戏代码，st7789的驱动，绘制电路原理图
 
 ## 许可证
 这个项目采用 [MIT 许可证](LICENSE) - 详见 [LICENSE](LICENSE) 文件了解更多细节。
